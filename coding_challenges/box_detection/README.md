@@ -74,6 +74,14 @@ Example Response:
 }
 ```
 
+
+Examples
+--------
+For your convinenince, we have uploaded a few test documents in the `inputs` directory. You can choose to test on those documents or any documents of your choosing.
+We have also uploaded a few examples of what we expect the output files to look like in the `outputs` directory. (The ID values inside each box is not required)
+
 Running
 -------
-Please also create a `run_service.sh` script that will run a server locally on port `5050`
+Obviously, we should be able to test your code. You have 2 options here:
+* Create a `run_service.sh` script that will run a server locally on port `5000`
+* Create a `README.md` in your repo with an example on how to run your service via the command line
