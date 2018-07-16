@@ -77,8 +77,8 @@ Example Response:
 
 Examples
 --------
-For your convinenince, we have uploaded a few test documents in the `inputs` directory. You can choose to test on those documents or any documents of your choosing.
-We have also uploaded a few examples of what we expect the output files to look like in the `outputs` directory. (The ID values inside each box is not required)
+For your convinenince, we have uploaded a few test documents in the `examples/inputs` directory. You can choose to test on those documents or any documents of your choosing.
+We have also uploaded a few examples of what we expect the output files to look like in the `examples/outputs` directory. (The ID values inside each box is not required)
 
 Running
 -------
